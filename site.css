@@ -7,5 +7,41 @@ background-color: #353535;
     height: 40px;
 }
 .button:hover{
-    height: 15%;
+    height: 12%;
+}
+.image1
+{
+width: 640px;
+height: 320px;
+}
+.image2
+{
+width: 640px;
+height: 100px;
+}
+.spacingb
+{
+    height: 60px;
+}
+h1
+{
+font-size: 70px;
+font: "Lato",sans-serif;
+color:#ddd;
+font-feature-settings: "kern" 1;
+font-kerning: normal;
+display: inline-block;
+}
+
+.button1 {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.button1:hover {
+    background-color: RoyalBlue;
 }
