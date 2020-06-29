@@ -11,13 +11,13 @@ background-color: #353535;
 }
 .image1
 {
-width: 640px;
-height: 320px;
+width: 320px;
+height: 160px;
 }
 .image2
 {
 width: 640px;
-height: 100px;
+height: 80px;
 }
 .spacingb
 {
@@ -44,4 +44,17 @@ display: inline-block;
 
 .button1:hover {
     background-color: RoyalBlue;
+}
+
+.div1 {
+    border-radius: 5px;
+    background-color: rgb(252, 91, 59);
+    padding: 20px;
+}
+
+.div2 {
+    border-radius: 5px;
+    background-color: rgb(252, 91, 59);
+    padding: 20px;
+    width: 20%;
 }
